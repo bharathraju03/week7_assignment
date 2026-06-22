@@ -1,0 +1,5 @@
+1. Data exploration provides better understanding of datasets.
+2. Handling missing values improves data quality.
+3. Filtering and selecting columns help extract useful information.
+4. Duplicate removal ensures consistency.
+5. Derived columns support additional analysis.
